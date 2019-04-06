@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Center
+  - Changer
+  - Boundary
+  - Spawner
+  - Puzzle
+  - Score
+  - PuzzleParent
+  - Updater
+  - SpawnerController
+  - Level
+  - LevelFader
+  - Gun
+  - Flames
+  - GunParent
+  - Bullet
+  - BulletSet
+  - DestructablePuzzle
+  - WallTop
+  - WallBottom
+  - WallRight
+  - WallLeft
+  - BulletCounter
+  - PlayButton
+  - ExitButton
+  - GameOverUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
